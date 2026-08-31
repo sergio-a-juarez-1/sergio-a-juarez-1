@@ -11,5 +11,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
 *   [GAME: Rock Paper Scissors](link-to-repo) - Brief description.
 
-### 🟨 JavaScript / Web Applications
-*   [Project 3 Name](link-to-repo) - Brief description.
+### 🐍 Python / Scripting & Automation
+
+* **Data Scraper & Parser** - A robust command-line utility that extracts data from websites and exports it into clean CSV files.
+* **GAME: Snake** - A classic grid-based arcade game built entirely in the terminal using the `curses` module.
