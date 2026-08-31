@@ -1,16 +1,15 @@
-## Hi there 👋
+![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
 
-<!--
-**sergio-a-juarez-1/sergio-a-juarez-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"A collection of my programs, exercises, and algorithm practice."
 
-Here are some ideas to get you started:
+# Hi, I'm Sergio Juarez 👋
+I am an adaptable developer exploring software engineering through a diverse range of programming languages. 
+This profile serves as a living portfolio of 50 distinct projects, showcasing different paradigms and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Project Directory
+### 🟦 C / Systems Programming
+*   [Project 1 Name](link-to-repo) - Brief 1-sentence description of your first C repo.
+*   [Project 2 Name](link-to-repo) - Brief description.
+
+### 🟨 JavaScript / Web Applications
+*   [Project 3 Name](link-to-repo) - Brief description.
