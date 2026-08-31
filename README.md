@@ -9,7 +9,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ## 🛠️ Project Directory
 ### 🟦 C / Systems Programming
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
-*   [Project 2 Name](link-to-repo) - Brief description.
+*   [GAME: Rock Paper Scissors](link-to-repo) - Brief description.
 
 ### 🟨 JavaScript / Web Applications
 *   [Project 3 Name](link-to-repo) - Brief description.
