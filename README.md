@@ -19,3 +19,13 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 * [Okta Mock User Generator](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/create_random_user) - A lightweight Python automation script designed to quickly generate and populate mock user profiles within an Okta tenant for development, testing, and staging environments.
 * [Okta User Lifecycle Management CLI](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Okta_user_management) - A professional Command Line Interface (CLI) automation tool written in Python for identity and access management (IAM) administrators.
 * [Pomodoro App](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Pomodoro) - The app implements the classic Pomodoro Technique—cycling through focused work sessions punctuated by short and long breaks.
+
+### 🐳 Docker / Containerization
+
+* [Kubernetes Projects](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main)
+
+### 🗃️ Kubernetes / Container Orchestration
+
+* [Kubernetes Projects](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main) - Kubernetes Hands-On Projects for Learning. Gain real-world experience in deploying, managing, and scaling containerized applications within Kubernetes environments.
+
+
