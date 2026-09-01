@@ -9,7 +9,8 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ## 🛠️ Project Directory
 ### 🟦 C / Systems Programming
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
-*   [GAME: Rock Paper Scissors](link-to-repo) - Brief description.
+*   [GAME: Rock Paper Scissors](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Rock_Paper_Scissors) - A lightweight, highly responsive Command Line Interface (CLI) implementation of the classic Rock, Paper, Scissors game written in pure C.
+*   [Password Generator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Password_Generator) -A lightweight, high-performance command-line password generator written in C.
 
 ### 🐍 Python / Scripting & Automation
 
