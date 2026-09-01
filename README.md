@@ -22,7 +22,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ### 🐳 Docker / Containerization
 
-* [Kubernetes Projects](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main)
+* [Docker](https://github.com/sergio-a-juarez-1/Docker/tree/main) - Serves as the comprehensive setup guide and reference manual for deploying a production-ready Jenkins server alongside a secure Docker-in-Docker sidecar container.
 
 ### 🗃️ Kubernetes / Container Orchestration
 
