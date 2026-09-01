@@ -15,4 +15,4 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ### 🐍 Python / Scripting & Automation
 
 * **Data Scraper & Parser** - A robust command-line utility that extracts data from websites and exports it into clean CSV files.
-* **GAME: Snake** - A classic grid-based arcade game built entirely in the terminal using the `curses` module.
+* [GAME: Snake](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Snake) - A classic, object-oriented 2D Snake game built entirely in pure Python using the native turtle graphics library.
