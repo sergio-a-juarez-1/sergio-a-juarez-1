@@ -34,7 +34,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ### ☁️ Terraform / Infrastructure as Code 
 
-* [Terraform](https://github.com/sergio-a-juarez-1/Terraform) - Gain real-world experience in programmatically provisioning, managing, and scaling secure multi-cloud environments using declarative configuration files.
+* [Terraform](https://github.com/sergio-a-juarez-1/Terraform) - This repository contains **Terraform configuration modules** designed to provision, manage, and scale secure cloud infrastructure components safely and predictably using Infrastructure as Code (IaC).
 
 
 ### ⚙️ Git / Version Control & Collaboration 
