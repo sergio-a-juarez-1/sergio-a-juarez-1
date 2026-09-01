@@ -39,6 +39,6 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ### ⚙️ Git / Version Control & Collaboration 
 
-* [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines.
+* [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines. This repository outlines professional **Git workflow, branching strategies, and contribution guidelines** to ensure codebase stability and seamless continuous integration.
 
 
