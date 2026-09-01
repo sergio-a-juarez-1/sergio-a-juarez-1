@@ -1,6 +1,5 @@
 ![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
 
-"A collection of my programs, exercises, and algorithm practice."
 
 # Hi, I'm Sergio Juarez 👋
 I am an adaptable developer exploring software engineering through a diverse range of programming languages. 
