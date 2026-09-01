@@ -10,6 +10,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
 *   [GAME: Rock Paper Scissors](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Rock_Paper_Scissors) - A lightweight, highly responsive Command Line Interface (CLI) implementation of the classic Rock, Paper, Scissors game written in pure C.
 *   [Password Generator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Password_Generator) - A lightweight, high-performance command-line password generator written in C.
+*   [Heart Rate Monitor](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Heart_Rate_Monitor) - A command-line terminal application written in C that calculates a user's target heart rate zones during training based on their age using the authoritative Tanaka formula. It allows athletes to track their intensity levels dynamically in real-time during workouts.
 
 ### 🐍 Python / Scripting & Automation
 
