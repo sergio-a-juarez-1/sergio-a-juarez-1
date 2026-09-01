@@ -15,3 +15,5 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 * [Conversion Programs](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Conversion-Programs) - A collection of four lightweight, graphical user interface (GUI) conversion tools built using Python and Tkinter.
 * [GAME: Snake](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Snake) - A classic, object-oriented 2D Snake game built entirely in pure Python using the native turtle graphics library.
+* [Okta Mock User Generator](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/create_random_user) - A lightweight Python automation script designed to quickly generate and populate mock user profiles within an Okta tenant for development, testing, and staging environments.
+* 
