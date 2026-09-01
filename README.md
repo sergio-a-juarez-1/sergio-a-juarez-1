@@ -28,4 +28,17 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 * [Kubernetes Projects](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main) - Kubernetes Hands-On Projects for Learning. Gain real-world experience in deploying, managing, and scaling containerized applications within Kubernetes environments.
 
+### 🤖 Ansible / Configuration Management 
+* [Ansible](https://github.com/sergio-a-juarez-1/Ansible) - Hand's on experience creating reusable playbooks to automate complex system configurations, application deployments, and routine IT orchestration tasks.
+
+
+### ☁️ Terraform / Infrastructure as Code 
+
+* [Terraform](https://github.com/sergio-a-juarez-1/Terraform) - Gain real-world experience in programmatically provisioning, managing, and scaling secure multi-cloud environments using declarative configuration files.
+
+
+### ⚙️ Git / Version Control & Collaboration 
+
+* [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines.
+
 
