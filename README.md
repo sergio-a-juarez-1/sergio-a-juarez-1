@@ -9,8 +9,10 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ### 🟦 C / Systems Programming
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
 *   [GAME: Rock Paper Scissors](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Rock_Paper_Scissors) - A lightweight, highly responsive Command Line Interface (CLI) implementation of the classic Rock, Paper, Scissors game written in pure C.
+*   [GAME: Tic Tac Toe](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tic-Tac-Toe) - A lightweight, terminal-based **Tic-Tac-Toe** game written in C. This project features a 2-player local multiplayer experience with dynamic board rendering, input validation, and automatic win/draw detection.
 *   [Password Generator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Password_Generator) - A lightweight, high-performance command-line password generator written in C.
 *   [Heart Rate Monitor](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Heart_Rate_Monitor) - A command-line terminal application written in C that calculates a user's target heart rate zones during training based on their age using the authoritative Tanaka formula. It allows athletes to track their intensity levels dynamically in real-time during workouts.
+
 
 ### 🐍 Python / Scripting & Automation
 
@@ -20,13 +22,16 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 * [Okta User Lifecycle Management CLI](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Okta_user_management) - A professional Command Line Interface (CLI) automation tool written in Python for identity and access management (IAM) administrators.
 * [Pomodoro App](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Pomodoro) - The app implements the classic Pomodoro Technique—cycling through focused work sessions punctuated by short and long breaks.
 
+
 ### 🐳 Docker / Containerization
 
 * [Docker](https://github.com/sergio-a-juarez-1/Docker/tree/main) - Serves as the comprehensive setup guide and reference manual for deploying a production-ready Jenkins server alongside a secure Docker-in-Docker sidecar container.
 
+
 ### 🗃️ Kubernetes / Container Orchestration
 
 * [Kubernetes](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main) - Kubernetes Hands-On Projects for Learning. Gain real-world experience in deploying, managing, and scaling containerized applications within Kubernetes environments.
+
 
 ### 🤖 Ansible / Configuration Management 
 * [Ansible](https://github.com/sergio-a-juarez-1/Ansible) - This repository contains Ansible playbooks and roles designed to automate infrastructure provisioning, system configuration management, and application deployments across multi-environment fleets.
@@ -40,5 +45,4 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ### ⚙️ Git / Version Control & Collaboration 
 
 * [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines. This repository outlines professional **Git workflow, branching strategies, and contribution guidelines** to ensure codebase stability and seamless continuous integration.
-
-
+* 
