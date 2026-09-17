@@ -7,7 +7,8 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ## 🛠️ Project Directory
 ### 🟦 C / Systems Programming
-*   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C. 
+*   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C.
+* [GAME: Turtle Crossing](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Turtle_Crossing) - A lightweight, hardware-accelerated arcade crossing game built in pure C. This clone of the popular Python "Turtle Crossing" game replaces heavy scripts with low-level Linux graphics layers, rendering shapes directly via hardware acceleration.
 *   [GAME: Rock Paper Scissors](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Rock_Paper_Scissors) - A lightweight, highly responsive Command Line Interface (CLI) implementation of the classic Rock, Paper, Scissors game written in pure C.
 *   [GAME: Tic Tac Toe](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tic-Tac-Toe) - A lightweight, terminal-based **Tic-Tac-Toe** game written in C. This project features a 2-player local multiplayer experience with dynamic board rendering, input validation, and automatic win/draw detection.
 *   [Password Generator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Password_Generator) - A lightweight, high-performance command-line password generator written in C.
@@ -18,7 +19,6 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 * [Conversion Programs](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Conversion-Programs) - A collection of four lightweight, graphical user interface (GUI) conversion tools built using Python and Tkinter.
 * [GAME: Snake](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Snake) - A classic, object-oriented 2D Snake game built entirely in pure Python using the native turtle graphics library.
-* [GAME: Turtle Crossing](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Turtle_Crossing) - A lightweight, hardware-accelerated arcade crossing game built in pure C. This clone of the popular Python "Turtle Crossing" game replaces heavy scripts with low-level Linux graphics layers, rendering shapes directly via hardware acceleration.
 * [Okta Mock User Generator](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/create_random_user) - A lightweight Python automation script designed to quickly generate and populate mock user profiles within an Okta tenant for development, testing, and staging environments.
 * [Okta User Lifecycle Management CLI](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Okta_user_management) - A professional Command Line Interface (CLI) automation tool written in Python for identity and access management (IAM) administrators.
 * [Pomodoro App](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Pomodoro) - The app implements the classic Pomodoro Technique—cycling through focused work sessions punctuated by short and long breaks.
