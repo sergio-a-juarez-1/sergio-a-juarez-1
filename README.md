@@ -27,6 +27,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ### 🐳 Docker / Containerization
 
 * [Docker](https://github.com/sergio-a-juarez-1/Docker/tree/main) - Serves as the comprehensive setup guide and reference manual for deploying a production-ready Jenkins server alongside a secure Docker-in-Docker sidecar container.
+* [Turtle Crossing Game](https://github.com/sergio-a-juarez-1/Docker/tree/main/containerized_game) - A lightweight, high-performance arcade crossing game written in pure C and fully containerized via Docker. This architecture decouples the workspace from host operating system dependencies by compiling and running the game inside a sandbox, while natively forwarding hardware acceleration, desktop display layers, and localized audio sockets back to your Linux desktop environment.
 
 
 ### 🗃️ Kubernetes / Container Orchestration
