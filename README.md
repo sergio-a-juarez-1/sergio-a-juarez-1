@@ -7,6 +7,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ## 🛠️ Project Directory
 ### 🟦 C / Systems Programming
+*   [Web Server](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Web_Server) - A lightweight, high-performance, terminal-based multi-threaded HTTP web server written in pure C. The application handles raw socket connections concurrently, reads incoming streams, parses HTTP endpoints, and safely dispatches static disk assets (like images) or dynamic HTML structures to browser clients with optimized memory tracking.
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C.
 * [GAME: Turtle Crossing](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Turtle_Crossing) - A lightweight, hardware-accelerated arcade crossing game built in pure C. This clone of the popular Python "Turtle Crossing" game replaces heavy scripts with low-level Linux graphics layers, rendering shapes directly via hardware acceleration.
 *   [GAME: Rock Paper Scissors](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Rock_Paper_Scissors) - A lightweight, highly responsive Command Line Interface (CLI) implementation of the classic Rock, Paper, Scissors game written in pure C.
