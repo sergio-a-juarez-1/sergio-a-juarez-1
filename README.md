@@ -46,7 +46,6 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 ### ☁️ Terraform / Infrastructure as Code 
 
 * [Terraform](https://github.com/sergio-a-juarez-1/Terraform) - This repository contains **Terraform configuration modules** designed to provision, manage, and scale secure cloud infrastructure components safely and predictably using Infrastructure as Code (IaC).
-* https://github.com/sergio-a-juarez-1/Terraform/tree/main/Self_Healing
 * [Self Healing Environment](https://github.com/sergio-a-juarez-1/Terraform/tree/main/Self_Healing) - A production-grade Terraform blueprint that implements an Elastic Auto Scaling Group (ASG) integrated with an Application Load Balancer (ALB).
 
 
