@@ -40,6 +40,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 ### 🤖 Ansible / Configuration Management 
 * [Ansible](https://github.com/sergio-a-juarez-1/Ansible) - This repository contains Ansible playbooks and roles designed to automate infrastructure provisioning, system configuration management, and application deployments across multi-environment fleets.
+* [Home Server](https://github.com/sergio-a-juarez-1/Ansible/tree/main/Home_Server) - A production-grade Ansible playbook designed to automatically configure, harden, and containerize a freshly installed Ubuntu Server node.
 
 
 ### ☁️ Terraform / Infrastructure as Code 
