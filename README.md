@@ -53,3 +53,7 @@ This profile serves as a living portfolio of 50 distinct projects, showcasing di
 
 * [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines. This repository outlines professional **Git workflow, branching strategies, and contribution guidelines** to ensure codebase stability and seamless continuous integration.
 * [Git Guard: CI/CD Pipeline Sandbox](https://github.com/sergio-a-juarez-1/Git/tree/main/Clean-Code-Guard-Sandbox) - An enterprise-grade automation framework that enforces continuous integration (CI) matrices, client-side safety hooks, and strict branch protection governance. This project establishes an immutable, production-ready delivery pipeline that guarantees code quality, automates multi-environment validation, and eliminates human error before deployment.
+
+### 🕷️ Web Scraping & Data Engineering
+
+* [Data Engineering Framework & Thesis Engine](https://github.com/sergio-a-juarez-1/Web_Scraping) - An academic and engineering timeline demonstrating the progressive evolution of automated web scraping architectures. This repository preserves the development lifecycle of a data-engineering framework across three distinct language domains (Java, C, and Python). The final Python implementation served as the core data engine for a University Honors Thesis, harvesting, parsing, and structured-modeling an empirical sample of over 112,173 crowdfunding projects.
