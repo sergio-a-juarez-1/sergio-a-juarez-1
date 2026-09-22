@@ -2,8 +2,7 @@
 
 
 # Hi, I'm Sergio Juarez 👋
-I am an adaptable developer exploring software engineering through a diverse range of programming languages. 
-This profile serves as a living portfolio of 50 distinct projects, showcasing different paradigms and technologies.
+I am an adaptable software and platform engineer focused on low-level systems optimization, container orchestration, and declarative infrastructure. This profile serves as a living portfolio of 50 distinct projects, showcasing programmatic paradigms ranging from bare-metal memory tracking in C to ephemeral, automated self-remediation architectures in cloud-native workspaces.
 
 ## 🛠️ Project Directory
 ### 🟦 C / Systems Programming
