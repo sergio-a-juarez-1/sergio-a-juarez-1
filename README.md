@@ -1,8 +1,8 @@
-   ![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
-
+![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
 
 # Hi, I'm Sergio Juarez 👋
 I am an adaptable software and platform engineer focused on low-level systems optimization, container orchestration, and declarative infrastructure. This profile serves as a living portfolio of multiple distinct projects, showcasing programmatic paradigms ranging from bare-metal memory tracking in C to ephemeral, automated self-remediation architectures in cloud-native workspaces.
+
 
 ## 🛠️ Project Directory
 
@@ -10,7 +10,9 @@ I am an adaptable software and platform engineer focused on low-level systems op
 
 * [Data Engineering Framework & Thesis Engine](https://github.com/sergio-a-juarez-1/Web_Scraping) - An academic and engineering timeline demonstrating the progressive evolution of automated web scraping architectures. This repository preserves the development lifecycle of a data-engineering framework across three distinct language domains: Java, C, and Python. The final Python implementation served as the core data engine for a University Honors Thesis, harvesting, parsing, and structured-modeling an empirical sample of over 100,000 crowdfunding projects.
 
+
 ### 🟦 C / Systems Programming
+
 *   [Web Server](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Web_Server) - A lightweight, high-performance, terminal-based multi-threaded HTTP web server written in pure C. The application handles raw socket connections concurrently, reads incoming streams, parses HTTP endpoints, and safely dispatches static disk assets (like images) or dynamic HTML structures to browser clients with optimized memory tracking.
 *   [Nato Phonetic Alphabet Converter](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Nato_Alphabet) - A high-performance graphical desk utility written in C that parses a CSV dataset to convert typed input text into its corresponding NATO phonetic alphabet code words. This project swaps high-level Python Pandas and Tkinter abstractions for an ultra-fast, immediate-mode GUI environment powered by Raylib, native file I/O operations, and optimized array-offset memory mapping.
 *   [Tip Calculator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tip_Calculator) - A clean, terminal-based interactive bill splitter and tip calculator written in C.
@@ -44,7 +46,8 @@ I am an adaptable software and platform engineer focused on low-level systems op
 * [Snake Game in Kubernetes Cluster](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main/snake_in_Kubernetes) - A cloud-native, microservice-architected Python Snake Game written with the standard turtle graphics library and fully containerized to run inside a Kubernetes cluster. This architecture showcases advanced DevOps patterns, including a multi-container Kerberos Key Distribution Center (KDC) sidecar, a headless virtual frame-buffer canvas, grid-aligned gameplay, and persistent keyboard input event mapping streamed live over an isolated VNC network tunnel.
 
 
-### 🤖 Ansible / Configuration Management 
+### 🤖 Ansible / Configuration Management
+
 * [Ansible](https://github.com/sergio-a-juarez-1/Ansible) - This repository contains Ansible playbooks and roles designed to automate infrastructure provisioning, system configuration management, and application deployments across multi-environment fleets.
 * [Home Server](https://github.com/sergio-a-juarez-1/Ansible/tree/main/Home_Server) - A production-grade Ansible playbook designed to automatically configure, harden, and containerize a freshly installed Ubuntu Server node.
 
