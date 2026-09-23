@@ -5,6 +5,11 @@
 I am an adaptable software and platform engineer focused on low-level systems optimization, container orchestration, and declarative infrastructure. This profile serves as a living portfolio of multiple distinct projects, showcasing programmatic paradigms ranging from bare-metal memory tracking in C to ephemeral, automated self-remediation architectures in cloud-native workspaces.
 
 ## 🛠️ Project Directory
+
+### 🕷️ Web Scraping & Data Engineering
+
+* [Data Engineering Framework & Thesis Engine](https://github.com/sergio-a-juarez-1/Web_Scraping) - An academic and engineering timeline demonstrating the progressive evolution of automated web scraping architectures. This repository preserves the development lifecycle of a data-engineering framework across three distinct language domains: Java, C, and Python. The final Python implementation served as the core data engine for a University Honors Thesis, harvesting, parsing, and structured-modeling an empirical sample of over 100,000 crowdfunding projects.
+
 ### 🟦 C / Systems Programming
 *   [Web Server](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Web_Server) - A lightweight, high-performance, terminal-based multi-threaded HTTP web server written in pure C. The application handles raw socket connections concurrently, reads incoming streams, parses HTTP endpoints, and safely dispatches static disk assets (like images) or dynamic HTML structures to browser clients with optimized memory tracking.
 *   [Nato Phonetic Alphabet Converter](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Nato_Alphabet) - A high-performance graphical desk utility written in C that parses a CSV dataset to convert typed input text into its corresponding NATO phonetic alphabet code words. This project swaps high-level Python Pandas and Tkinter abstractions for an ultra-fast, immediate-mode GUI environment powered by Raylib, native file I/O operations, and optimized array-offset memory mapping.
@@ -54,7 +59,3 @@ I am an adaptable software and platform engineer focused on low-level systems op
 
 * [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines. This repository outlines professional **Git workflow, branching strategies, and contribution guidelines** to ensure codebase stability and seamless continuous integration.
 * [Git Guard: CI/CD Pipeline Sandbox](https://github.com/sergio-a-juarez-1/Git/tree/main/Clean-Code-Guard-Sandbox) - An enterprise-grade automation framework that enforces continuous integration (CI) matrices, client-side safety hooks, and strict branch protection governance. This project establishes an immutable, production-ready delivery pipeline that guarantees code quality, automates multi-environment validation, and eliminates human error before deployment.
-
-### 🕷️ Web Scraping & Data Engineering
-
-* [Data Engineering Framework & Thesis Engine](https://github.com/sergio-a-juarez-1/Web_Scraping) - An academic and engineering timeline demonstrating the progressive evolution of automated web scraping architectures. This repository preserves the development lifecycle of a data-engineering framework across three distinct language domains: Java, C, and Python. The final Python implementation served as the core data engine for a University Honors Thesis, harvesting, parsing, and structured-modeling an empirical sample of over 100,000 crowdfunding projects.
