@@ -1,7 +1,9 @@
 ![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
 
+
 # Hi, I'm Sergio Juarez 👋
 I am an adaptable software and platform engineer focused on low-level systems optimization, container orchestration, and declarative infrastructure. This profile serves as a living portfolio of multiple distinct projects, showcasing programmatic paradigms ranging from bare-metal memory tracking in C to ephemeral, automated self-remediation architectures in cloud-native workspaces.
+
 
 
 ## 🛠️ Project Directory
@@ -9,6 +11,7 @@ I am an adaptable software and platform engineer focused on low-level systems op
 ### 🕷️ Web Scraping & Data Engineering
 
 * [Data Engineering Framework & Thesis Engine](https://github.com/sergio-a-juarez-1/Web_Scraping) - An academic and engineering timeline demonstrating the progressive evolution of automated web scraping architectures. This repository preserves the development lifecycle of a data-engineering framework across three distinct language domains: Java, C, and Python. The final Python implementation served as the core data engine for a University Honors Thesis, harvesting, parsing, and structured-modeling an empirical sample of over 100,000 crowdfunding projects.
+
 
 
 ### 🟦 C / Systems Programming
@@ -23,15 +26,17 @@ I am an adaptable software and platform engineer focused on low-level systems op
 *   [Heart Rate Monitor](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Heart_Rate_Monitor) - A command-line terminal application written in C that calculates a user's target heart rate zones during training based on their age using the authoritative Tanaka formula. It allows athletes to track their intensity levels dynamically in real-time during workouts.
 
 
+
 ### 🐍 Python / Scripting & Automation
 
 * [Conversion Program](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Conversion_Program) - An optimized, graphical user interface (GUI) application built with Python and Tkinter that combines four conversion utilities into a single, robust desktop tool.
 * [GAME: Snake](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Snake) - A classic, object-oriented 2D Snake game built entirely in pure Python using the native turtle graphics library.
+* [Pomodoro App](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Pomodoro) - The app implements the classic Pomodoro Technique—cycling through focused work sessions punctuated by short and long breaks.
 * [Okta Mock User Generator](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/create_random_user) - A lightweight Python automation script designed to quickly generate and populate mock user profiles within an Okta tenant for development, testing, and staging environments.
 * [Okta User Lifecycle Management CLI](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Okta_user_management) - A professional Command Line Interface (CLI) automation tool written in Python for identity and access management (IAM) administrators.
 * [Okta Group Auditing & Membership Sync](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Automated_Group_Auditing_and_Membership_Sync) - A robust Python automation utility designed for Identity and Access Management (IAM) administrators to safely audit, query, and synchronize user memberships within Okta Groups. This utility addresses large enterprise environments by implementing automated pagination handling, preventing partial data snapshots when tracking extensive directory groups.
 * [Okta Suspicious Activity & System Log Monitor](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Okta-Automation/Secure_Suspicious_Activity-System_Log_Monitor) - A professional security monitoring and automated auditing tool written in Python for Identity and Access Management (IAM) and Security Operations (SecOps) administrators. This utility queries the Okta System Log API over a tight, rolling time window to extract, filter, and flag immediate authentication anomalies and potential brute-force risks.
-* [Pomodoro App](https://github.com/sergio-a-juarez-1/Python-Projects/tree/main/Pomodoro) - The app implements the classic Pomodoro Technique—cycling through focused work sessions punctuated by short and long breaks.
+
 
 
 ### 🐳 Docker / Containerization
@@ -40,10 +45,12 @@ I am an adaptable software and platform engineer focused on low-level systems op
 * [Turtle Crossing Game](https://github.com/sergio-a-juarez-1/Docker/tree/main/containerized_game) - A lightweight, high-performance arcade crossing game written in pure C and fully containerized via Docker. This architecture decouples the workspace from host operating system dependencies by compiling and running the game inside a sandbox, while natively forwarding hardware acceleration, desktop display layers, and localized audio sockets back to your Linux desktop environment.
 
 
+
 ### 🗃️ Kubernetes / Container Orchestration
 
 * [Kubernetes](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main) - Kubernetes Hands-On Projects for Learning. Gain real-world experience in deploying, managing, and scaling containerized applications within Kubernetes environments.
 * [Snake Game in Kubernetes Cluster](https://github.com/sergio-a-juarez-1/Kubernetes/tree/main/snake_in_Kubernetes) - A cloud-native, microservice-architected Python Snake Game written with the standard turtle graphics library and fully containerized to run inside a Kubernetes cluster. This architecture showcases advanced DevOps patterns, including a multi-container Kerberos Key Distribution Center (KDC) sidecar, a headless virtual frame-buffer canvas, grid-aligned gameplay, and persistent keyboard input event mapping streamed live over an isolated VNC network tunnel.
+
 
 
 ### 🤖 Ansible / Configuration Management
@@ -52,10 +59,12 @@ I am an adaptable software and platform engineer focused on low-level systems op
 * [Home Server](https://github.com/sergio-a-juarez-1/Ansible/tree/main/Home_Server) - A production-grade Ansible playbook designed to automatically configure, harden, and containerize a freshly installed Ubuntu Server node.
 
 
+
 ### ☁️ Terraform / Infrastructure as Code 
 
 * [Terraform](https://github.com/sergio-a-juarez-1/Terraform) - This repository contains **Terraform configuration modules** designed to provision, manage, and scale secure cloud infrastructure components safely and predictably using Infrastructure as Code (IaC).
 * [Terraform Self-Healing Sandbox Environment](https://github.com/sergio-a-juarez-1/Terraform/tree/main/Self_Healing) - A production-grade, declarative Infrastructure-as-Code (IaC) configuration designed to provision ephemeral, self-healing sandbox environments on AWS. This architecture implements a strict, automated **2-hour session decay countdown** and an on-demand **manual reset command**, directly replicating the core user-experience flow of interactive cloud labs like Killercoda or Katacoda.
+
 
 
 ### ⚙️ Git / Version Control & Collaboration 
