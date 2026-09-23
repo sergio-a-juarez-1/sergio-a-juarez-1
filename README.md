@@ -1,5 +1,6 @@
+<p align="center">
 ![Skilled](https://github.com/sergio-a-juarez-1/my-agent-skills/blob/main/kcs-par-reviewer/assets/programming.gif?raw=true)
-
+</p>
 
 # Hi, I'm Sergio Juarez 👋
 I am an adaptable software and platform engineer focused on low-level systems optimization, container orchestration, and declarative infrastructure. This profile serves as a living portfolio of multiple distinct projects, showcasing programmatic paradigms ranging from bare-metal memory tracking in C to ephemeral, automated self-remediation architectures in cloud-native workspaces.
