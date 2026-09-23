@@ -24,6 +24,7 @@ I am an adaptable software and platform engineer focused on low-level systems op
 *   [GAME: Tic Tac Toe](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Tic-Tac-Toe) - A lightweight, terminal-based **Tic-Tac-Toe** game written in C. This enhanced project features local 2-player multiplayer, a smart AI opponent with multiple difficulty levels, cross-round score tracking, and an alternating tournament-style turn structure. 
 *   [Password Generator](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Password_Generator) - A lightweight, high-performance command-line password generator written in C.
 *   [Heart Rate Monitor](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Heart_Rate_Monitor) - A command-line terminal application written in C that calculates a user's target heart rate zones during training based on their age using the authoritative Tanaka formula. It allows athletes to track their intensity levels dynamically in real-time during workouts.
+*   [Okta System Log SIEM Forwarder](https://github.com/sergio-a-juarez-1/C-Projects/tree/main/Okta_System_Log_SIEM_Forwarder) - A lightweight, ultra-high-performance security log forwarder written in pure C. This tool interfaces directly with the cloud-native **Okta System Log API**, pulling real-time authentication and administration telemetry down into memory, parsing it natively, and standardizing it into an actionable alert stream for SIEM ingestion. Unlike traditional Python or Java-based log collectors, this implementation provides a near-zero memory footprint and minimal CPU overhead, making it ideal for containerized sidecars, embedded thin clients, or high-throughput enterprise monitoring systems.
 
 
 
@@ -71,3 +72,5 @@ I am an adaptable software and platform engineer focused on low-level systems op
 
 * [Git](https://github.com/sergio-a-juarez-1/Git) - Master essential DevOps workflows by using Git to track codebase changes, manage branches, and collaborate efficiently within automated CI/CD pipelines. This repository outlines professional **Git workflow, branching strategies, and contribution guidelines** to ensure codebase stability and seamless continuous integration.
 * [Git Guard: CI/CD Pipeline Sandbox](https://github.com/sergio-a-juarez-1/Git/tree/main/Clean-Code-Guard-Sandbox) - An enterprise-grade automation framework that enforces continuous integration (CI) matrices, client-side safety hooks, and strict branch protection governance. This project establishes an immutable, production-ready delivery pipeline that guarantees code quality, automates multi-environment validation, and eliminates human error before deployment.
+
+
